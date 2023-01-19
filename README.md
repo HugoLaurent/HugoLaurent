@@ -15,7 +15,7 @@ If you have any interesting projects you'd like me to work on with you, don't he
 :v: See you soon!
 
 - 🔭 I’m currently working on some newbies projects
-- 🌱 I’m currently learning JavaScript / Node.JS / API etc etc
+- 🌱 I’m currently learning JavaScript / Node.JS / API
 - 👯 I’m looking to collaborate on everything I could 
 
 🚀STARSHIP FOR LIFE🌠
